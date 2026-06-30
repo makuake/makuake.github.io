@@ -1,6 +1,9 @@
 new_0	0
 new_1	0
+new_2	0
 random_0	0
 random_1	0
+random_2	0
 ranking_0	0
 ranking_1	0
+ranking_2	0
