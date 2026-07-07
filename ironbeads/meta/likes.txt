@@ -2,10 +2,10 @@ new_0	1
 new_1	2
 new_2	1
 new_3	0
-random_0	2
+random_0	0
 random_1	1
-random_2	1
-random_3	0
+random_2	2
+random_3	1
 ranking_0	2
 ranking_1	1
 ranking_2	1
