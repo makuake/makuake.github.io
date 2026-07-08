@@ -6,12 +6,12 @@ new_4	3
 new_5	1
 new_6	0
 random_0	0
-random_1	3
+random_1	1
 random_2	0
-random_3	0
-random_4	1
-random_5	1
-random_6	0
+random_3	3
+random_4	0
+random_5	0
+random_6	1
 ranking_0	3
 ranking_1	1
 ranking_2	1
