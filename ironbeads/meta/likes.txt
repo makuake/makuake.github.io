@@ -6,9 +6,9 @@ new_4	3
 new_5	1
 new_6	0
 random_0	1
-random_1	0
+random_1	1
 random_2	0
-random_3	1
+random_3	0
 random_4	3
 random_5	0
 random_6	0
