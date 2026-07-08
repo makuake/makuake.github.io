@@ -2,9 +2,9 @@ new_0	1
 new_1	3
 new_2	1
 new_3	0
-random_0	1
+random_0	0
 random_1	3
-random_2	0
+random_2	1
 random_3	1
 ranking_0	3
 ranking_1	1
