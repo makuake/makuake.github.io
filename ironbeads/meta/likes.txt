@@ -1,4 +1,4 @@
-new_0	0
+new_0	1
 new_1	0
 new_2	0
 new_3	0
@@ -8,16 +8,16 @@ new_6	1
 new_7	2
 new_8	4
 new_9	2
-random_0	0
+random_0	2
 random_1	1
 random_2	1
-random_3	2
-random_4	0
-random_5	0
+random_3	0
+random_4	1
+random_5	4
 random_6	2
-random_7	0
-random_8	1
-random_9	4
+random_7	1
+random_8	0
+random_9	0
 ranking_0	4
 ranking_1	2
 ranking_2	2
@@ -25,6 +25,6 @@ ranking_3	1
 ranking_4	1
 ranking_5	1
 ranking_6	1
-ranking_7	0
+ranking_7	1
 ranking_8	0
 ranking_9	0
