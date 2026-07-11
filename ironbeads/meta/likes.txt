@@ -9,12 +9,12 @@ new_7	0
 new_8	2
 new_9	1
 random_0	2
-random_1	2
-random_2	1
-random_3	0
-random_4	0
+random_1	1
+random_2	0
+random_3	1
+random_4	1
 random_5	0
-random_6	3
+random_6	0
 random_7	0
 random_8	5
 random_9	1
