@@ -9,10 +9,10 @@ new_7	0
 new_8	0
 new_9	2
 random_0	0
-random_1	1
-random_2	3
+random_1	0
+random_2	2
 random_3	0
-random_4	0
+random_4	1
 random_5	0
 random_6	1
 random_7	0
