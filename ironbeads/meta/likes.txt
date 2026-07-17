@@ -10,13 +10,13 @@ new_8	0
 new_9	2
 random_0	0
 random_1	2
-random_2	0
+random_2	5
 random_3	0
-random_4	0
+random_4	2
 random_5	0
-random_6	0
+random_6	1
 random_7	2
-random_8	2
+random_8	0
 random_9	0
 ranking_0	5
 ranking_1	3
