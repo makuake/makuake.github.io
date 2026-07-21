@@ -9,14 +9,14 @@ new_7	0
 new_8	0
 new_9	2
 random_0	0
-random_1	2
+random_1	1
 random_2	0
 random_3	0
 random_4	0
 random_5	0
 random_6	0
 random_7	0
-random_8	0
+random_8	3
 random_9	1
 ranking_0	5
 ranking_1	3
